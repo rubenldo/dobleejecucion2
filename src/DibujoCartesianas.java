@@ -33,6 +33,9 @@ public class DibujoCartesianas {
     }
 
 
+
+
+
     //NO MODIFICAR A PARTIR DE AQUÍ
 
     public static int ANCHO = 400;
